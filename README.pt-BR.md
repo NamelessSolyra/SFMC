@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> Os dois PCs precisam estar na mesma rede local. Para jogar pela internet, usem uma rede local virtual com Hamachi, Tailscale, Porthole ou serviço semelhante. Na janela de conexão, quem entra na partida digita o IP do anfitrião nessa rede. O SFMC mantém a função escolhida e o endereço do anfitrião após reiniciar o jogo.
+
 [SFMC 1.0.5 · Windows x64 · English ZIP](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 ## Instalação e conexão

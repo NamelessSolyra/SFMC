@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> 협동 플레이를 하려면 두 PC가 같은 로컬 네트워크에 연결되어 있어야 합니다. 인터넷으로 플레이할 때는 Hamachi, Tailscale, Porthole 등으로 같은 가상 LAN에 접속하세요. 참가자는 연결 창에 해당 네트워크에서 호스트가 사용하는 IP 주소를 입력합니다. 선택한 역할과 호스트 주소는 게임을 다시 시작해도 유지됩니다.
+
 [SFMC 1.0.5 · Windows x64 · English ZIP](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 ## 설치 및 접속

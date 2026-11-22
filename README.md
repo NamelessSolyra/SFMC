@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> Для кооператива оба ПК должны находиться в одной локальной сети. Если играете через интернет, объедините их в виртуальную локальную сеть через Hamachi, Tailscale, Porthole или аналогичный сервис. В окне подключения второй игрок вводит IP-адрес хоста в этой сети. Мод запоминает выбранную роль и адрес хоста после перезапуска игры.
+
 [Скачать русский интерфейс](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-Release.zip) · [Скачать английский интерфейс](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 Версия 1.0.5 • Windows x64 • Протокол 86

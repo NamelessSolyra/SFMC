@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> Für den Koop-Modus müssen beide PCs im selben lokalen Netzwerk sein. Über das Internet könnt ihr mit Hamachi, Tailscale, Porthole oder einem ähnlichen Dienst ein virtuelles LAN nutzen. Wer beitritt, gibt im Verbindungsfenster die IP-Adresse des Hosts in diesem Netzwerk ein. Rolle und Host-Adresse bleiben nach dem Spielneustart gespeichert.
+
 [SFMC 1.0.5 · Windows x64 · English ZIP](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 ## Installation und Verbindung

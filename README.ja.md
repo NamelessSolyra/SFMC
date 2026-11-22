@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> 協力プレイには、2台のPCが同じLANに接続されている必要があります。インターネット経由では、Hamachi、Tailscale、Portholeなどで同じ仮想LANに参加してください。参加する側は接続画面で、そのネットワーク上のホストのIPアドレスを入力します。ゲームを再起動しても、選んだ役割とホストのアドレスは保存されています。
+
 [SFMC 1.0.5 · Windows x64 · English ZIP](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 ## 導入と接続

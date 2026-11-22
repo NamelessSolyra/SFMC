@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> Both PCs must be on the same local network for co-op. To play over the internet, join the same virtual LAN using Hamachi, Tailscale, Porthole or a similar service. In the connection window, the joining player enters the host’s IP address on that network. SFMC remembers the selected role and host address when you restart the game.
+
 [Download the English edition](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 Play Mewgenics together from the first trip to the end of the game. Each player runs their own copy and controls their assigned cats. You can return home and start the next adventure in the same session.

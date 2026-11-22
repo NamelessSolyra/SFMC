@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> 合作游玩要求两台电脑处于同一局域网。通过互联网联机时，请使用 Hamachi、Tailscale、Porthole 等工具加入同一虚拟局域网。加入游戏的玩家在连接窗口输入房主在该网络中的 IP 地址。重启游戏后，SFMC 会保留所选身份和房主地址。
+
 [SFMC 1.0.5 · Windows x64 · English ZIP](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 ## 下载安装与联机

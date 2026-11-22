@@ -2,6 +2,8 @@
 
 [Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
 
+> Para jugar en cooperativo, ambos equipos deben estar en la misma red local. Por internet, usen una red local virtual con Hamachi, Tailscale, Porthole o un servicio similar. En la ventana de conexión, quien se une introduce la dirección IP del anfitrión en esa red. SFMC conserva el rol elegido y la dirección del anfitrión al reiniciar el juego.
+
 [SFMC 1.0.5 · Windows x64 · English ZIP](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 ## Instalación y conexión
