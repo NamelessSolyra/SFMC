@@ -1,6 +1,8 @@
 # SFMC — Solyara and FallGen Mewgenius COOP
 
-**Русский** · [English — setup and controls](README.en.md)
+[Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [한국어](README.ko.md)
+
+[Скачать русский интерфейс](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-Release.zip) · [Скачать английский интерфейс](https://github.com/NamelessSolyra/SFMC/releases/download/v1.0.5/SFMC-1.0.5-English.zip)
 
 Версия 1.0.5 • Windows x64 • Протокол 86
 
